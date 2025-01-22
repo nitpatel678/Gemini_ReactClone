@@ -1,2 +1,2 @@
-# Gemini_ReactClone
+# Gemini ReactClone
 A **Gemini** clone built with React for modern web interactions and seamless user experience.
